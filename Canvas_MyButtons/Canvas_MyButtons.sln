@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvas_MyButtons", "Canvas_MyButtons\Canvas_MyButtons.csproj", "{EC996F3D-059E-4863-987F-A86AFF2B79EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{EF1326A1-4D3A-4DB1-BB22-A582B16982E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC996F3D-059E-4863-987F-A86AFF2B79EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC996F3D-059E-4863-987F-A86AFF2B79EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC996F3D-059E-4863-987F-A86AFF2B79EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC996F3D-059E-4863-987F-A86AFF2B79EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1326A1-4D3A-4DB1-BB22-A582B16982E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1326A1-4D3A-4DB1-BB22-A582B16982E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1326A1-4D3A-4DB1-BB22-A582B16982E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1326A1-4D3A-4DB1-BB22-A582B16982E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB93BE0-CE9C-40EC-AE0B-6CF8D03E1AE7}
+	EndGlobalSection
+EndGlobal

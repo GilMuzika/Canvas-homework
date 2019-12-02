@@ -1,0 +1,8 @@
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\bin\Debug\Canvas_MyButtons.dll.config
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\bin\Debug\Canvas_MyButtons.dll
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\bin\Debug\Canvas_MyButtons.pdb
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\obj\Debug\Canvas_MyButtons.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\obj\Debug\Canvas_MyButtons.Properties.Resources.resources
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\obj\Debug\Canvas_MyButtons.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\obj\Debug\Canvas_MyButtons.dll
+C:\Users\Gil\source\repos\Canvas_MyButtons\Canvas_MyButtons\obj\Debug\Canvas_MyButtons.pdb
